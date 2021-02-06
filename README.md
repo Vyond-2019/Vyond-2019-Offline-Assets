@@ -8,9 +8,9 @@ Simply make a pull request.
 In [Wrapper](https://github.com/GoAnimate-Wrapper/GoAnimate-Wrapper), Set the contents of `config.json` to:
 ```
 {
-        "SWF_URL": "https://vyond-legacy.github.io/Vyond-Legacy-Remastered-Assets/animation/414827163ad4eb60",
-        "STORE_URL": "https://vyond-legacy.github.io/Vyond-Legacy-Remastered-Assets/store/3a981f5cb2739137",
-        "CLIENT_URL": "https://vyond-legacy.github.io/Vyond-Legacy-Remastered-Assets/static/ad44370a650793d9"
+        "SWF_URL": "https://vyond-legacy-remastered.github.io/Vyond-Legacy-Remastered-Assets/animation/414827163ad4eb60",
+        "STORE_URL": "https://vyond-legacy-remastered.github.io/Vyond-Legacy-Remastered-Assets/store/3a981f5cb2739137",
+        "CLIENT_URL": "https://vyond-legacy-remastered.github.io/Vyond-Legacy-Remastered-Assets/static/ad44370a650793d9"
 }
 ```
 
